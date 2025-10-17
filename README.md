@@ -1,12 +1,13 @@
 ## Hi there 👋 I am Rahul Garg
+I am a **Data Scientist** from India, currently exploring to design an llm model from scratch.
+
+
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300"> 
 
 <p align="left">
 
-I am a **Data Scientist** from India, looking to design an llm model from scratch.
-
-
-- 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS 
+- 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
+  
 - 🌱 I’m currently learning: Full Stack Web Development
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10)

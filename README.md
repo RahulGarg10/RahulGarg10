@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Rahul Garg
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" /> 
 
-<!--
-**RahulGarg10/RahulGarg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Scientist** from India, looking to design an llm model from scratch.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
 
+<br></br><br></br><br></br><br></br><br></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 

@@ -6,7 +6,7 @@
 I am a **Data Scientist** from India, looking to design an llm model from scratch.
 
 
-- 🔭 I’m currently designing an end to end pipeline to deploy deep learnig model on AWS 
+- 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS 
 - 🌱 I’m currently learning: Full Stack Web Development
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10)
@@ -19,7 +19,7 @@ I am a **Data Scientist** from India, looking to design an llm model from scratc
 
 - 📄 Know about my experiences <!--[ktktyk](ktktyk)-->
 
-- ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom and Jerry
+- ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 </p>
   
 <br></br>

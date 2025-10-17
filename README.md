@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Rahul Garg
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 I am a **Data Scientist** from India, currently exploring to design an llm model from scratch.
-
-
+<br></br>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300"> 
 
 <p align="left">
@@ -22,9 +23,8 @@ I am a **Data Scientist** from India, currently exploring to design an llm model
 
 - ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 </p>
-  
-### Some Fun Statistics:
----
+<br>
+<h2>Some Fun Statistics:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 

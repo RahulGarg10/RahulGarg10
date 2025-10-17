@@ -18,7 +18,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 - 💬 Ask me about: **Data Science, ML & AI**
 
-- 📫 Reach me at **p2363730@nwytg.com**
+- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
 
 - 📄 Know about my experiences <!--[ktktyk](ktktyk)-->
 

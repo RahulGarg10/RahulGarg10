@@ -22,8 +22,9 @@ I am a **Data Scientist** from India, looking to design an llm model from scratc
 - ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 </p>
   
-<br></br>
-### Some Statistics:
+### Some Fun Statistics:
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en" alt="rahulgarg10" /></p>

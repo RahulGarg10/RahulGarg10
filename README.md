@@ -14,7 +14,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10)
 
-- 📝 I regularly write articles on [Substack]()
+- 📝 I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
 
 - 💬 Ask me about: **Data Science, ML & AI**
 

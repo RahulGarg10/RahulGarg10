@@ -110,7 +110,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 
 
-<h2>Some Fun Statistics:</h2>
+<h2>📈 Some Fun Statistics:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 

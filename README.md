@@ -20,7 +20,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
 
-- 📄 Know about my experiences <!--[ktktyk](ktktyk)-->
+- 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
 
 - ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 </p>

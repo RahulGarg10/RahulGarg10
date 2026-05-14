@@ -12,7 +12,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
   
 - 🌱 I’m currently learning: Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10?tab=repositories)
 
 - 📝 I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
 

@@ -131,7 +131,7 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
 
-</div>
+
 
 
 

@@ -3,43 +3,49 @@
 
 @import "{{ site.theme }}";
 
-/* 1. Expand the overall site constraints to accommodate a wider design */
+
+/* 1. Expand layout and switch container structure from Flexbox to CSS Grid */
 .wrapper {
-  max-width: 1100px !important; /* Default theme constraint is roughly ~860px */
-  margin: 0 auto;
-  padding: 20px;
+  max-width: 1140px !important;  /* Broaden viewport bounds */
+  margin: 0 auto !important;
+  padding: 40px 20px !important;
   
-  /* Apply Flexbox layout for clean dual-column scaling */
-  display: flex !important;
-  flex-direction: row !important;
+  /* Use CSS Grid to lock columns into independent paths and completely prevent overlap */
+  display: grid !important;
+  grid-template-columns: 260px 1fr !important; /* Fixed 1st column width, dynamic 2nd column width */
+  column-gap: 80px !important;                /* INCREASE OR DECREASE THIS VALUE for column gap */
 }
 
-/* 2. Style the first column (Sidebar/Header Profile info) */
+/* 2. Reset the 1st Column (Sidebar Header Info) */
 header {
-  width: 260px !important;
-  flex-shrink: 0 !important; /* Keep the sidebar at a fixed width */
-  margin-right: 60px !important; /* INCREASE THIS VALUE to make the gap between columns wider */
+  position: relative !important; /* Neutralize any hardcoded theme absolute positioning causing overlap */
+  width: 100% !important;        /* Consumes exactly the 260px track assigned by the grid parent */
+  float: none !important;        /* Strip native float constraints */
+  margin: 0 !important;
 }
 
-/* 3. Style the second column (Your main README text block) */
+/* 3. Reset the 2nd Column (Main Content View) */
 section {
-  width: 100% !important; /* Forces the text container to consume all remaining flex width */
-  max-width: 780px !important; /* INCREASE THIS VALUE to make the main content wider */
-  margin-top: 0 !important;
+  position: relative !important;
+  width: 100% !important;        /* Consumes remaining dynamic track width securely */
+  max-width: 800px !important;   /* Expands your text reading width limit */
+  float: none !important;        /* Strip native float constraints */
+  margin: 0 !important;
 }
 
-/* 4. Keep responsiveness perfectly intact for mobile view layouts */
-@media screen and (max-width: 768px) {
+/* 4. Enforce responsive formatting for phone or tablet viewports */
+@media screen and (max-width: 850px) {
   .wrapper {
-    flex-direction: column !important; /* Stack columns vertically on phones */
-    padding: 10px;
+    display: block !important;   /* Drop structural grid tracks when viewport shrinks */
+    padding: 20px !important;
   }
   header {
     width: 100% !important;
-    margin-right: 0 !important; /* Remove the horizontal gap on mobile screens */
-    margin-bottom: 30px !important; /* Add vertical gap instead */
+    margin-bottom: 40px !important; /* Swaps the horizontal gap out for a vertical gap on mobile */
   }
   section {
+    width: 100% !important;
     max-width: 100% !important;
   }
 }
+

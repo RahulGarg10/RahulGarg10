@@ -4,48 +4,41 @@
 @import "{{ site.theme }}";
 
 
-/* 1. Expand layout and switch container structure from Flexbox to CSS Grid */
-.wrapper {
-  max-width: 1140px !important;  /* Broaden viewport bounds */
+
+/* Force grid layout over the theme constraints */
+body .wrapper {
+  max-width: 1200px !important;  
   margin: 0 auto !important;
   padding: 40px 20px !important;
   
-  /* Use CSS Grid to lock columns into independent paths and completely prevent overlap */
   display: grid !important;
-  grid-template-columns: 260px 1fr !important; /* Fixed 1st column width, dynamic 2nd column width */
-  column-gap: 80px !important;                /* INCREASE OR DECREASE THIS VALUE for column gap */
+  grid-template-columns: 260px 1fr !important; /* Forces 2 columns layout */
+  column-gap: 80px !important;                /* Gap space between columns */
 }
 
-/* 2. Reset the 1st Column (Sidebar Header Info) */
-header {
-  position: relative !important; /* Neutralize any hardcoded theme absolute positioning causing overlap */
-  width: 100% !important;        /* Consumes exactly the 260px track assigned by the grid parent */
-  float: none !important;        /* Strip native float constraints */
+body header {
+  position: relative !important; 
+  width: 100% !important;        
+  float: none !important;        
   margin: 0 !important;
 }
 
-/* 3. Reset the 2nd Column (Main Content View) */
-section {
+body section {
   position: relative !important;
-  width: 100% !important;        /* Consumes remaining dynamic track width securely */
-  max-width: 800px !important;   /* Expands your text reading width limit */
-  float: none !important;        /* Strip native float constraints */
+  width: 100% !important;        
+  max-width: 850px !important;   /* Widens your main column */
+  float: none !important;        
   margin: 0 !important;
 }
 
-/* 4. Enforce responsive formatting for phone or tablet viewports */
+/* Maintain mobile responsiveness scales */
 @media screen and (max-width: 850px) {
-  .wrapper {
-    display: block !important;   /* Drop structural grid tracks when viewport shrinks */
+  body .wrapper {
+    display: block !important;   
     padding: 20px !important;
   }
-  header {
-    width: 100% !important;
-    margin-bottom: 40px !important; /* Swaps the horizontal gap out for a vertical gap on mobile */
-  }
-  section {
-    width: 100% !important;
-    max-width: 100% !important;
+  body header {
+    margin-bottom: 40px !important; 
   }
 }
 

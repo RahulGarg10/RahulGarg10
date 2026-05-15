@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300"> 
 
-<p align="left">
+
 
 - 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
   
@@ -22,7 +22,7 @@
 - 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
 
 - ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
-</p>
+
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rahul-garg10/)

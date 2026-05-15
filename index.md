@@ -27,6 +27,7 @@
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rahul-garg10/)
 [![Static Badge](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&logoSize=auto)](https://rahulgarg10.substack.com/)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-f2c811?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RahulGarg10)
 
 
 

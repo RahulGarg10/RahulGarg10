@@ -1,16 +1,13 @@
 
-
-<img align="center" src="https://raw.githubusercontent.com/RahulGarg10/RahulGarg10/refs/heads/main/machine-learning-banner-concept-vector-27527240.gif" > 
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-Hi there 👋 I am a **Data Scientist** from India, currently exploring to design an llm model from scratch.
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300"> 
 
 <p align="left">
 
 - 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
+  
+- I'm currently exploring to design an llm model from scratch.
   
 - 🌱 I’m currently learning: Full Stack Web Development
 

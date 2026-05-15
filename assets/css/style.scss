@@ -1,46 +1,9 @@
 ---
 ---
 
+@import "{{ site.theme }}";
 
 
-@import "jekyll-theme-minimal";
 
 
-
-/* Force grid layout over the theme constraints */
-body .wrapper {
-  max-width: 1200px !important;  
-  margin: 0 auto !important;
-  padding: 40px 20px !important;
-  
-  display: grid !important;
-  grid-template-columns: 260px 1fr !important; /* Forces 2 columns layout */
-  column-gap: 80px !important;                /* Gap space between columns */
-}
-
-body header {
-  position: relative !important; 
-  width: 100% !important;        
-  float: none !important;        
-  margin: 0 !important;
-}
-
-body section {
-  position: relative !important;
-  width: 100% !important;        
-  max-width: 850px !important;   /* Widens your main column */
-  float: none !important;        
-  margin: 0 !important;
-}
-
-/* Maintain mobile responsiveness scales */
-@media screen and (max-width: 850px) {
-  body .wrapper {
-    display: block !important;   
-    padding: 20px !important;
-  }
-  body header {
-    margin-bottom: 40px !important; 
-  }
-}
 

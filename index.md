@@ -1,3 +1,10 @@
+---
+layout: default
+title: My Profile Webpage
+---
+
+
+
 <img align="center" src="https://raw.githubusercontent.com/RahulGarg10/RahulGarg10/refs/heads/main/machine-learning-banner-concept-vector-27527240.gif" > 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -110,6 +117,8 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 
 
+<!--
+
 <h2>📈 Some Fun Statistics:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
@@ -117,8 +126,8 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en" alt="rahulgarg10" /></p>
 
 <div align="center">
-
-
+-->
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10)
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">-->
@@ -128,6 +137,6 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
 
 </div>
-
+-->
 
 

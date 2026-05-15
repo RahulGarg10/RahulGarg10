@@ -2,3 +2,44 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* 1. Expand the overall site constraints to accommodate a wider design */
+.wrapper {
+  max-width: 1100px !important; /* Default theme constraint is roughly ~860px */
+  margin: 0 auto;
+  padding: 20px;
+  
+  /* Apply Flexbox layout for clean dual-column scaling */
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+/* 2. Style the first column (Sidebar/Header Profile info) */
+header {
+  width: 260px !important;
+  flex-shrink: 0 !important; /* Keep the sidebar at a fixed width */
+  margin-right: 60px !important; /* INCREASE THIS VALUE to make the gap between columns wider */
+}
+
+/* 3. Style the second column (Your main README text block) */
+section {
+  width: 100% !important; /* Forces the text container to consume all remaining flex width */
+  max-width: 780px !important; /* INCREASE THIS VALUE to make the main content wider */
+  margin-top: 0 !important;
+}
+
+/* 4. Keep responsiveness perfectly intact for mobile view layouts */
+@media screen and (max-width: 768px) {
+  .wrapper {
+    flex-direction: column !important; /* Stack columns vertically on phones */
+    padding: 10px;
+  }
+  header {
+    width: 100% !important;
+    margin-right: 0 !important; /* Remove the horizontal gap on mobile screens */
+    margin-bottom: 30px !important; /* Add vertical gap instead */
+  }
+  section {
+    max-width: 100% !important;
+  }
+}

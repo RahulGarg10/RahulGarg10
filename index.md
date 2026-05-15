@@ -1,8 +1,3 @@
----
-layout: default
-title: My Profile Webpage
----
-
 
 
 <img align="center" src="https://raw.githubusercontent.com/RahulGarg10/RahulGarg10/refs/heads/main/machine-learning-banner-concept-vector-27527240.gif" > 
@@ -117,16 +112,16 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 
 
-<!--
 
 <h2>📈 Some Fun Statistics:</h2>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en" alt="rahulgarg10" /></p>
 
 <div align="center">
--->
+
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10)
 
@@ -137,6 +132,6 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
 
 </div>
--->
+
 
 

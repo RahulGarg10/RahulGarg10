@@ -5,23 +5,23 @@
 
 
 
-🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
+- 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
   
-🗺️ I'm currently exploring to design an llm model from scratch.
+- 🗺️ I'm currently exploring to design an llm model from scratch.
   
-🌱 I’m currently learning: Full Stack Web Development
+- 🌱 I’m currently learning: Full Stack Web Development
 
-👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10?tab=repositories)
 
-📝 I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
+- 📝 I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
 
-💬 Ask me about: **Data Science, ML & AI**
+- 💬 Ask me about: **Data Science, ML & AI**
 
-📫 Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
+- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
 
-📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
+- 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
 
-⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
+- ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 
 
 ## 🌐 Socials:

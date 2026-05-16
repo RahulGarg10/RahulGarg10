@@ -134,7 +134,7 @@
     <div style="display: flex; gap: 3px; font-size: 1.3em;">
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
       <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
-       <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;"><img width="21" height="21" src="https://icons8.com" alt="LeetCode" style="display: inline-block; vertical-align: middle; filter: invert(84%) sepia(19%) saturate(1032%) hue-rotate(42deg) brightness(98%) contrast(92%);" /></a>
+       <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;color: #b5e853;"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo"/></a>
     </div>
   </div>
 

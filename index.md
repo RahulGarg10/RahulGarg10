@@ -108,6 +108,11 @@
 
 -->
 
+<hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 50px;">
+
+<div style="text-align: center; color: #666; font-family: monospace; font-size: 0.9em; margin-bottom: 20px;">
+  <p>© 2026 Your Name — All Rights Reserved.</p>
+</div>
 
 
 

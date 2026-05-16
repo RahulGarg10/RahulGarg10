@@ -124,9 +124,10 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 <div align="center">
 
 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10)
 
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">-->
+<!-- [![Rahul Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true&width="50%")](https://github.com/RahulGarg10/github-readme-activity-graph)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulGarg10&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=dracula)

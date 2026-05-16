@@ -111,8 +111,13 @@
     <div style="display: flex; gap: 3px; font-size: 1.3em;">
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
       <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
-       <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;"><img width="21" height="21" src="https://icons8.com" alt="LeetCode" style="display: inline-block; vertical-align: middle; filter: sepia(100%) hue-rotate(50deg) saturate(300%) brightness(95%);" />
-      </a>
+      <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+        <svg width="20" height="20" viewBox="0 0 24 24" style="fill: #b5e853; display: inline-block; vertical-align: middle;">
+          <path d="M13.483 0a1.374 1.374 0 0 0-.961.411L7.11 5.826a1.374 1.374 0 0 0-.015 1.944l2.87 2.863a1.35 1.35 0 0 0 1.895-.018l4.63-4.646a1.323 1.323 0 0 0-.012-1.87l-1.952-1.95A1.37 1.37 0 0 0 13.483 0zm-5.462 8.71a1.37 1.37 0 0 0-1.94 0l-5.65 5.67a1.368 1.368 0 0 0 0 1.93l1.95 1.95a1.37 1.37 0 0 0 1.94 0l5.65-5.67a1.368 1.368 0 0 0 0-1.93l-1.95-1.95zm6.818 1.252a1.34 1.34 0 0 0-1.895.019l-2.87 2.865a1.375 1.375 0 0 0 .015 1.944l5.411 5.4a1.37 1.37 0 0 0 1.94 0l1.953-1.952a1.368 1.368 0 0 0 0-1.93l-4.554-4.546z"/>
+          <path d="M22.533 13.111h-7.378c-.754 0-1.371.611-1.371 1.357 0 .747.617 1.358 1.371 1.358h7.378c.754 0 1.371-.611 1.371-1.358 0-.746-.617-1.357-1.371-1.357z"/>
+        </svg>
+      </a> 
+      
     </div>
   </div>
 

@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/RahulGarg10/RahulGarg10/refs/heads/main/machine-learning-banner-concept-vector-27527240.gif" > 
+<img align="center" src="https://raw.githubusercontent.com/RahulGarg10/RahulGarg10/refs/heads/main/images/machine-learning-banner-concept-vector-27527240.gif" > 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

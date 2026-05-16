@@ -108,11 +108,44 @@
 
 -->
 
-<hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 50px;">
 
-<div style="text-align: center; color: #666; font-family: monospace; font-size: 0.9em; margin-bottom: 20px;">
-  <p>© 2026 Your Name — All Rights Reserved.</p>
-</div>
+
+<!-- FontAwesome Icons for GitHub/LinkedIn and Bootstrap Icons for Substack -->
+<link rel="stylesheet" href="https://cloudflare.com">
+<link rel="stylesheet" href="https://jsdelivr.net">
+
+<!-- Custom Theme-Matched Footer Block -->
+<hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
+
+<footer style="display: flex; flex-wrap: wrap; justify-content: space-between; font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace; color: #eaeaea; font-size: 0.9em; line-height: 1.6;">
+  
+  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
+    <strong style="color: #b5e853; margin-bottom: 10px;">Location</strong>
+    <span style="color: #8c8c8c;">New Delhi, India</span>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
+    <strong style="color: #b5e853; margin-bottom: 10px;">Email</strong>
+    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">you@example.com</a>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
+    <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
+    <div style="display: flex; gap: 15px; font-size: 1.2em; margin-top: 5px;">
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://substack.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="bi bi-substack"></i></a>
+    </div>
+  </div>
+
+  <div style="flex: 1.5; min-width: 200px; margin-bottom: 20px; color: #8c8c8c; text-align: left;">
+    © 2026 By Rahul Garg.<br />
+    All rights reserved. <br />
+    <a href="#" style="color: #4183c4; text-decoration: underline;">Disclaimer</a>.
+  </div>
+
+</footer>
+
 
 
 

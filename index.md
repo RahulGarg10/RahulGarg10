@@ -108,17 +108,7 @@
 
 -->
 
-```html
-LocationNew Delhi, India
 
-Emailyou@example.com
-
-Follow Me© 2026 By Rahul Garg.
-
-
-All rights reserved. Disclaimer.
-
-```
 <!-- Custom Theme-Matched Footer Block -->
 <hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
 

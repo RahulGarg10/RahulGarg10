@@ -117,15 +117,15 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 <h2>📈 Some Fun Statistics:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en" alt="rahulgarg10" /></p>
 
 <div align="center">
 
+<p align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10&theme=dracula)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10)
+![](https://github-readme-stats-fast.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en&theme=dracula) </p>
 
 <!-- [![Rahul Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true&width="50%")](https://github.com/RahulGarg10/github-readme-activity-graph)-->
 
@@ -134,6 +134,10 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
 
 </div>
+
+<!--<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&theme=dracula" alt="rahulgarg10" /></p>-->
+
+
 
 
 

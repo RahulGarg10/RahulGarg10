@@ -109,10 +109,10 @@
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
     <div style="display: flex; gap: 3px; font-size: 1.3em;">
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
-      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
-      <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
-        <img width="22" height="22" src="https://icons8.com" alt="LeetCode" style="display: inline-block; vertical-align: middle;" />
+      <a href="https://github.com/RahulGarg10" title="Github" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/rahul-garg10/" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
+      <a href="https://leetcode.com/u/RahulGarg10/" title="LeetCode"  target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+        <img width="22" height="22" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" alt="LeetCode" style="display: inline-block; vertical-align: middle;" />
       </a>
       
   </div>

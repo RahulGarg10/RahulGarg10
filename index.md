@@ -126,15 +126,15 @@
 
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Email</strong>
-    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">rahulgarg.sk@gmail.com.com</a>
+    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">rahulgarg.sk@gmail.com</a>
   </div>
 
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
     <div style="display: flex; gap: 3px; font-size: 1.3em;">
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
-      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-linkedin"></i></a>
-      <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-leetcode"></i></a>
+      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
+       <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;"><img width="21" height="21" src="https://icons8.com" alt="LeetCode" style="display: inline-block; vertical-align: middle; filter: invert(84%) sepia(19%) saturate(1032%) hue-rotate(42deg) brightness(98%) contrast(92%);" /></a>
     </div>
   </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rahul Garg | AI Engineer
+
 ---
 
 

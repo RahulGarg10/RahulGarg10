@@ -112,6 +112,8 @@
 
 <div>
 
+<link rel="stylesheet" href="https://cloudflare.com">
+<link rel="stylesheet" href="https://jsdelivr.net">
 
 <!-- Custom Theme-Matched Footer Block -->
 <hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
@@ -160,54 +162,6 @@
 
 
 
-
-
-<div>
-<!-- Custom Theme-Matched Footer Block utilizing Native Layout Classes -->
-<hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
-
-<footer style="display: flex; flex-wrap: wrap; justify-content: space-between; font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace; color: #eaeaea; font-size: 0.9em; line-height: 1.6;">
-  
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Location</strong>
-    <span style="color: #8c8c8c;">New Delhi, India</span>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Email</strong>
-    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">you@example.com</a>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
-    <div style="display: flex; gap: 10px; margin-top: 5px;">
-      
-  <!-- Native GitHub Icon Button -->
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" class="btn btn-github" style="padding: 4px 8px; font-size: 0.8em; display: inline-flex; align-items: center; text-decoration: none;">
-        <span class="icon" style="margin-right: 5px;"></span>GitHub
-      </a>
-
-  <!-- LinkedIn Text Link Button styled to match -->
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="btn" style="padding: 4px 8px; font-size: 0.8em; display: inline-flex; align-items: center; text-decoration: none;">
-        LinkedIn
-      </a>
-
-   <!-- Substack Text Link Button styled to match -->
-   <a href="https://substack.com" target="_blank" rel="noopener noreferrer" class="btn" style="padding: 4px 8px; font-size: 0.8em; display: inline-flex; align-items: center; text-decoration: none;">
-        Substack
-      </a>
-
-   </div>
-  </div>
-
-  <div style="flex: 1.5; min-width: 200px; margin-bottom: 20px; color: #8c8c8c; text-align: left;">
-    © 2026 By Rahul Garg.<br />
-    All rights reserved. <br />
-    <a href="#" style="color: #4183c4; text-decoration: underline;">Disclaimer</a>.
-  </div>
-
-</footer>
-</div>
 
 
 

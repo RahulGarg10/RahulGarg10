@@ -5,23 +5,23 @@
 
 
 
-- 🔭 I’m currently designing an end to end pipeline to deploy ML model on AWS
+- I’m currently designing an end to end pipeline to deploy ML model on AWS
   
-- 🗺️ I'm currently exploring to design an llm model from scratch.
+- I'm currently exploring to design an llm model from scratch.
   
-- 🌱 I’m currently learning: Full Stack Web Development
+- I’m currently learning: Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/RahulGarg10?tab=repositories)
+- All of my projects are available at [Projects](https://github.com/RahulGarg10?tab=repositories)
 
-- 📝 I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
+- I regularly write articles on [Substack](https://rahulgarg10.substack.com/)
 
-- 💬 Ask me about: **Data Science, ML & AI**
+- Ask me about: **Data Science, ML & AI**
 
-- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
+- Reach me at [Linkedin](https://www.linkedin.com/in/rahul-garg10/)
 
-- 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
+- Know about my experiences- [Resume](https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing)
 
-- ⚡ Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
+- Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry
 
 
 ## 🌐 Socials:
@@ -107,28 +107,6 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 
 -->
-
-
-
-
-<h2>📈 Some Fun Statistics:</h2>
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg10&show_icons=true&locale=en&layout=compact" alt="rahulgarg10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en" alt="rahulgarg10" /></p>
-
-<div align="center">
-
-<!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10)
-
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">-->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulGarg10&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
-
 
 
 

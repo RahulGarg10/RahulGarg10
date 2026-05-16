@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "| AI Engineer"
+description: | AI Engineer
 ---
 
 

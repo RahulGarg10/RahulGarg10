@@ -23,6 +23,7 @@
 
 - Fun fact: I still enjoy Dexter's Laboratory and Tom & Jerry.
 
+<br>
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rahul-garg10/)
@@ -32,7 +33,7 @@
 
 
 
-
+<br>
 
 
 
@@ -82,31 +83,7 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 
 
-<!--
-![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat)
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
-![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
-![Apache Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=flat)
-![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat)
-![Apache Hive Badge](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=000&style=flat)
-![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)
-![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
-
--->
 
 
 
@@ -134,7 +111,8 @@
     <div style="display: flex; gap: 3px; font-size: 1.3em;">
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
       <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-linkedin-in"></i></a>
-       <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;color: #b5e853;"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo"/></a>
+       <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;"><img width="21" height="21" src="https://icons8.com" alt="LeetCode" style="display: inline-block; vertical-align: middle; filter: sepia(100%) hue-rotate(50deg) saturate(300%) brightness(95%);" />
+      </a>
     </div>
   </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: |AI Engineer
+title: AI Engineer |
 ---
 
 

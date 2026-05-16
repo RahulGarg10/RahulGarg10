@@ -111,53 +111,6 @@
 
 
 <div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-
-<!-- Custom Theme-Matched Footer Block -->
-<hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
-
-<footer style="display: flex; flex-wrap: wrap; justify-content: space-between; font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace; color: #eaeaea; font-size: 0.9em; line-height: 1.6;">
-  
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Location</strong>
-    <span style="color: #8c8c8c;">New Delhi, India</span>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Email</strong>
-    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">you@example.com</a>
-  </div>
-
-  <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
-    <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
-    <div style="display: flex; gap: 15px; font-size: 1.2em; margin-top: 5px;">
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="fab fa-github"></i></a>
-      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="fab fa-linkedin-in"></i></a>
-      <a href="https://substack.com/" target="_blank" rel="noopener noreferrer" style="color: #eaeaea;"><i class="bi bi-substack"></i></a>
-    </div>
-  </div>
-
-  <div style="flex: 1.5; min-width: 200px; margin-bottom: 20px; color: #8c8c8c; text-align: left;">
-    © 2026 By Rahul Garg.<br />
-    All rights reserved. <br />
-    <a href="#" style="color: #4183c4; text-decoration: underline;">Disclaimer</a>.
-  </div>
-
-</footer>
-
-
-
-
-
-
-
-
-
-
-
-<div>
 <!-- Official FontAwesome CSS Stylesheet Delivery -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -173,14 +126,14 @@
 
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Email</strong>
-    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">you@example.com</a>
+    <a href="mailto:you@example.com" style="color: #4183c4; text-decoration: none;">rahulgarg.sk@gmail.com.com</a>
   </div>
 
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
-    <div style="display: flex; gap: 15px; font-size: 1.3em; margin-top: 5px;">
+    <div style="display: flex; gap: 3px; font-size: 1.3em;">
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
-      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-linkedin"></i></a>
       <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-leetcode"></i></a>
     </div>
   </div>

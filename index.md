@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Rahul Garg | AI Engineer"
+---
+
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

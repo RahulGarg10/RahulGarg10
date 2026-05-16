@@ -112,8 +112,8 @@
 
 <div>
 
-<link rel="stylesheet" href="https://cloudflare.com">
-<link rel="stylesheet" href="https://jsdelivr.net">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 <!-- Custom Theme-Matched Footer Block -->
 <hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
@@ -159,7 +159,7 @@
 
 <div>
 <!-- Official FontAwesome CSS Stylesheet Delivery -->
-<link rel="stylesheet" href="https://cloudflare.com">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!-- Custom Theme-Matched Footer Block -->
 <hr style="border: 0; border-top: 1px dashed #b5e853; margin-top: 80px; margin-bottom: 30px;">
@@ -179,9 +179,9 @@
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px;">Follow Me</strong>
     <div style="display: flex; gap: 15px; font-size: 1.3em; margin-top: 5px;">
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-github"></i></a>
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-github"></i></a>
       <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-linkedin-in"></i></a>
-      <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fab fa-leetcode"></i></a>
+      <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" style="color: #b5e853; text-decoration: none;"><i class="fa-brands fa-leetcode"></i></a>
     </div>
   </div>
 

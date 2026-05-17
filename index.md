@@ -1,7 +1,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300"> 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllYWM0YXV0MTdzZTY5bmkyMmZnbGFjZ213ZnB2bnQ1MXFrMzVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" height="300" style = "padding-top=10px"> 
 
 
 

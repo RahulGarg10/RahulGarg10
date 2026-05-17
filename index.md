@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 

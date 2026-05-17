@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% jekyll_feed %}
+    {% seo %}
+
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <!-- YOUR CUSTOM LEFT-ALIGNED NAVIGATION MENU -->
+           <div style="
+              text-decoration : none;
+              display: flex;
+              justify-content: flex-start;
+              gap: 100px;
+              align-content: flex-start;
+            ">    
+                <a href="https://github.com/RahulGarg10/RahulGarg10">Projects</a>
+                <a href="https://github.com/RahulGarg10/RahulGarg10">Resume</a>
+                <a href="https://github.com/RahulGarg10/RahulGarg10">Blog</a>
+               </div> 
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
+
+
+

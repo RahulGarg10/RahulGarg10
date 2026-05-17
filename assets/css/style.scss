@@ -16,3 +16,36 @@ header h2{
   padding-top: 10px;
 }
 
+/* Scroll-to-Top Floating Button Style */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 45px;
+  height: 45px;
+  background-color: #151515;       /* Matches theme background */
+  color: #b5e853;                  /* Your custom signature green */
+  border: 2px solid #b5e853;       /* Bold structural accent border */
+  border-radius: 50%;              /* Perfect circular geometry */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  z-index: 9999;                   /* Forces item to float above all elements */
+  transition: all 0.2s ease-in-out;
+}
+
+/* Hover Interactivity */
+.scroll-top-btn:hover {
+  background-color: #b5e853;       /* Inverts palette elements */
+  color: #151515;
+  transform: translateY(-4px);     /* Smooth physical lift motion */
+}
+
+/* Enable smooth scrolling across the entire page */
+html {
+  scroll-behavior: smooth;
+}

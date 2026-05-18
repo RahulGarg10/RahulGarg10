@@ -2,8 +2,6 @@
 layout: default
 ---
  
- <div class="container">
-      <section id="main_content">
         
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -89,8 +87,8 @@ layout: default
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&amp;logoColor=fff&amp;style=for-the-badge" alt="Heroku Badge" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&amp;logoColor=fff&amp;style=for-the-badge" alt="Netlify Badge" />
 <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&amp;logoColor=fff&amp;style=for-the-badge" alt="Vercel Badge" /></p>
-  </section>
-    </div>
+
+  
 
 
 

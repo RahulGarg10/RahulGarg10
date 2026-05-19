@@ -40,7 +40,7 @@ layout: default
 <p><a href="https://www.linkedin.com/in/rahul-garg10/" target="_blank" rel="noopener"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="Linkedin" /></a>
 <a href="https://rahulgarg10.substack.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&amp;logo=substack&amp;logoColor=white&amp;logoSize=auto" alt="Static Badge" /></a>
 <a href="https://leetcode.com/u/RahulGarg10" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LeetCode-f2c811?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="Leetcode Badge" /></a>
-<a href="https://github.com/RahulGarg10/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/github-%2307405e.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></p>
+<a href="https://github.com/RahulGarg10/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 <p><br /></p>
 
 <h2 id="-tech-stack">💻 Tech Stack:</h2>

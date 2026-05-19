@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body{
+  background-image: url(../images/backgr02cr.gif);
+}
+
 a{
   color: #b5e853;
   text-decoration: none;

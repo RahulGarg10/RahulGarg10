@@ -6,7 +6,7 @@ title: "Blog"
 <h2>My Posts</h2>
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <li>
        <a href="{{ post.url | relative_url }}" style="font-size: 24px; border-bottom: 1px dashed;">{{ post.title }}</a>
       <span style="font-size:18px; color: #8c8c8c; margin-left: 15px;">{{ post.date | date: "%b %d, %Y" }}</span>

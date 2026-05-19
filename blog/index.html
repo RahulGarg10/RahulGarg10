@@ -10,6 +10,9 @@ title: "Blog"
     <li>
        <a href="{{ post.url | relative_url }}" style="font-size: 24px; border-bottom: 1px dashed;">{{ post.title }}</a>
       <span style="font-size:18px; color: #8c8c8c; margin-left: 15px;">{{ post.date | date: "%b %d, %Y" }}</span>
+          <div style="color: #eaeaea; margin-top: 5px;">
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
+      </div>
     </li>
   {% endfor %}
 </ul>

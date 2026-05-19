@@ -3,13 +3,13 @@ layout: default
 title: "Blog"
 ---
 
-<h2>My Blog Posts</h2>
+<h2>My Posts</h2>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <span style="color: #666; margin-right: 15px;">{{ post.date | date: "%b %d, %Y" }}</span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+       <a href="{{ post.url | relative_url }}" style="border-bottom: 1px dashed;">{{ post.title }}</a>
+      <span style="color: #8c8c8c; margin-right: 15px;">{{ post.date | date: "%b %d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>

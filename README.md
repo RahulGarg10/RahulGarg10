@@ -189,17 +189,16 @@ Hi there 👋 I am a **Data Scientist** from India, currently exploring to desig
 
 <div align="center">
 
-<p align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10&theme=dracula)
-
-![](https://github-readme-stats-fast.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en&theme=dracula) </p>
-
 <!-- [![Rahul Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulGarg10&theme=react-dark&bg_color=20232a&hide_border=true&width="50%")](https://github.com/RahulGarg10/github-readme-activity-graph)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulGarg10&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
+
+
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10&theme=dracula)
+![](https://github-readme-stats-fast.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en&theme=dracula) 
 
 </div>
 

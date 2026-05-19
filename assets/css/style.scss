@@ -22,7 +22,7 @@ header h2{
   height: 380px;
   object-fit: cover;    /* Prevents distortion if the original isn't a perfect square */
   border-radius: 50%;   /* Makes the square image perfectly round */
-  filter: grayscale(100%); /* Converts the image to black and white */'
+  filter: grayscale(100%); /* Converts the image to black and white */
 }
 
 /* Scroll-to-Top Floating Button Style */

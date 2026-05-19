@@ -17,8 +17,12 @@ header h2{
 }
 
 .main_img{
-  padding-top: 10px;
   padding-left: 50px;
+  width: 400px;         /* Image must have equal width and height */
+  height: 400px;
+  object-fit: cover;    /* Prevents distortion if the original isn't a perfect square */
+  border-radius: 50%;   /* Makes the square image perfectly round */
+  filter: grayscale(100%); /* Converts the image to black and white */'
 }
 
 /* Scroll-to-Top Floating Button Style */

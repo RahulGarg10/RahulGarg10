@@ -50,3 +50,9 @@ header h2{
 html {
   scroll-behavior: smooth;
 }
+
+/* Making both all links and all h3( as in ml/ai, databases etc) neon-bluey*/
+a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
+    color: #63c0f5;
+    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}

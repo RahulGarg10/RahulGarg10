@@ -46,7 +46,7 @@ layout: default
 <h2 id="-tech-stack">💻 Tech Stack:</h2>
 
 
-### 🧠 <span class="second-main-color" style="border-bottom: dotted;">ML/AI</span>
+### 🧠 <span class="second-main-color" style="border-bottom: 1px dashed;">ML/AI</span>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -65,7 +65,7 @@ layout: default
 
 
 
-### 🗄️ <span class="second-main-color" style="border-bottom: dotted;">Databases</span>
+### 🗄️ <span class="second-main-color" style="border-bottom: 1px dashed;">Databases</span>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -73,7 +73,7 @@ layout: default
 
 
 
-### ☁️ <span class="second-main-color" style="border-bottom: dotted;">DevOps</span>
+### ☁️ <span class="second-main-color" style="border-bottom: 1px dashed;">DevOps</span>
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=black)](#)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge) 
@@ -85,7 +85,7 @@ layout: default
 
  
 
-### 🛠️ <span class="second-main-color" style="border-bottom: dotted;">Tools/Languages</span>
+### 🛠️ <span class="second-main-color" style="border-bottom: 1px dashed;">Tools/Languages</span>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/VS%20Code-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](#)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -95,7 +95,7 @@ layout: default
 
 
   
-### 🌐 <span class="second-main-color" style="border-bottom: dotted;">Web Development</span>
+### 🌐 <span class="second-main-color" style="border-bottom: 1px dashed;">Web Development</span>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white) 

@@ -68,17 +68,14 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
 /* 1. Masonry Wrapper Setup */
     .masonry-wrapper {
       column-count: 3; /* Explicitly dictates 3 vertical columns */
-      column-gap: 24px; /* Horizontal space between columns */
       max-width: 1100px;
-      margin: 40px auto;
-      padding: 20px;
       box-sizing: border-box;
     }
 
     /* 2. Grid Item Configuration */
     .grid-item {
       break-inside: avoid; /* Crucial: Prevents cards from splitting across columns */
-      margin-bottom: 24px; /* Uniform vertical space between stacked cards */
+      margin-bottom: 10px; /* Uniform vertical space between stacked cards */
       display: block; /* Ensures seamless layout structural tracking */
       box-sizing: border-box;
     }

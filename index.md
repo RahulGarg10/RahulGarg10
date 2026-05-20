@@ -141,12 +141,12 @@ layout: default
 
 <p><br /></p>
 
-<h2>📈 Code Stats:</h2>
+<h2>👨🏻‍💻 Code Stats:</h2>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulGarg10&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulGarg10&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulGarg10&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=chartreuse_dark)
 
 
 

@@ -65,52 +65,52 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
     text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
- /* 1. Masonry Wrapper Setup */
-      .masonry-wrapper {
-        column-count: 3; /* Explicitly dictates 3 vertical columns */
-        column-gap: 24px; /* Horizontal space between columns */
-        max-width: 1100px;
-        margin: 40px auto;
-        padding: 20px;
-        box-sizing: border-box;
-      }
+/* 1. Masonry Wrapper Setup */
+    .masonry-wrapper {
+      column-count: 3; /* Explicitly dictates 3 vertical columns */
+      column-gap: 24px; /* Horizontal space between columns */
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+      box-sizing: border-box;
+    }
 
-      /* 2. Grid Item Configuration */
-      .grid-item {
-        break-inside: avoid; /* Crucial: Prevents cards from splitting across columns */
-        margin-bottom: 24px; /* Uniform vertical space between stacked cards */
-        display: block; /* Ensures seamless layout structural tracking */
-        box-sizing: border-box;
-      }
+    /* 2. Grid Item Configuration */
+    .grid-item {
+      break-inside: avoid; /* Crucial: Prevents cards from splitting across columns */
+      margin-bottom: 24px; /* Uniform vertical space between stacked cards */
+      display: block; /* Ensures seamless layout structural tracking */
+      box-sizing: border-box;
+    }
 
-      /* 3. Rounded Card Design with Transparent Edges */
-      .card {
-        background-color: #0d1117;
-        border: 6px solid rgba(255, 255, 255, 0.12);
-        background-clip: padding-box;
-        border-radius: 14px;
-        padding: 24px;
-        color: #cccccc;
-        box-sizing: border-box;
-        height: auto; /* Let content dictate height organically */
-      }
+    /* 3. Rounded Card Design with Transparent Edges */
+    .card {
+      background-color: #0d1117;
+      border: 6px solid rgba(255, 255, 255, 0.12);
+      background-clip: padding-box;
+      border-radius: 14px;
+      padding: 24px;
+      color: #cccccc;
+      box-sizing: border-box;
+      height: auto; /* Let content dictate height organically */
+    }
 
-      /* 4. Inside Header Styling - Guaranteed Visibility */
-      .card h3 {
-        display: block !important;
-        visibility: visible !important;
-      }
+    /* 4. Inside Header Styling - Guaranteed Visibility */
+    .card h3 {
+      display: block !important;
+      visibility: visible !important;
+    }
 
-      /* 5. Clean Flex Wrapping for Technology Badges */
-      .card p {
-        margin: 0;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px; /* Standardized spacing between shields */
-      }
+    /* 5. Clean Flex Wrapping for Technology Badges */
+    .card p {
+      margin: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px; /* Standardized spacing between shields */
+    }
 
-      .card img {
-        display: block;
-        height: 28px; /* Normalizes badge height scaling */
-        border: none;
-      }
+    .card img {
+      display: block;
+      height: 28px; /* Normalizes badge height scaling */
+      border: none;
+    }

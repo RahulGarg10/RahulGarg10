@@ -61,8 +61,8 @@ layout: default
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=%white" alt="SciPy">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly">
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557c?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=fff" alt="Matplotlib"></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" alt="Power BI"></a>
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557c?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=fff" alt="Matplotlib"></a>
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" alt="Power BI"></a>
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=fff&amp;style=for-the-badge" alt="FastAPI">
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&amp;logoColor=fff&amp;style=for-the-badge" alt="Anaconda"></p>
 
@@ -86,7 +86,7 @@ layout: default
 <div class="card">
 
 <h3> ☁️ <span class="second-main-color" style="border-bottom: 1px dashed;">DevOps</span></h3>
-<p><a href="#"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=aws&amp;logoColor=black" alt="AWS"></a>
+<p><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=aws&amp;logoColor=black" alt="AWS"></a>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&amp;logoColor=fff&amp;style=for-the-badge" alt="Kubernetes">
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=000&amp;style=for-the-badge" alt="Linux">
@@ -103,7 +103,7 @@ layout: default
 
 <h3> 🛠️ <span class="second-main-color" style="border-bottom: 1px dashed;">Tools/Languages</span></h3>
 <p><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-5C2D91.svg?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio"></a>
+<img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-5C2D91.svg?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio"></a>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></p>

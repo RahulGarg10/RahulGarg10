@@ -82,14 +82,17 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
 
     /* 3. Rounded Card Design with Transparent Edges */
     .card {
-      background-color: #0d1117;
-      border: 6px solid rgba(255, 255, 255, 0.12);
-      background-clip: padding-box;
-      border-radius: 14px;
-      padding: 24px;
-      color: #cccccc;
-      box-sizing: border-box;
-      height: auto; /* Let content dictate height organically */
+        /* Slightly dropped opacity on your original white border for premium blending */
+        border: 5px solid rgba(255, 255, 255, 0.08);
+        background-clip: padding-box;
+        border-radius: 14px; /* Restored original premium rounded layout */
+        padding: 24px;
+        box-sizing: border-box;
+        height: auto; /* Let content dictate height organically */
+        
+        /* Optional modern addition: subtle background blur for content readability */
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
     }
 
     /* 4. Inside Header Styling - Guaranteed Visibility */

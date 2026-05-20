@@ -148,9 +148,6 @@ layout: default
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulGarg10&theme=dracula)
 
 
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGarg10&theme=dracula)
-![](https://github-readme-stats-fast.vercel.app/api?username=rahulgarg10&show_icons=true&locale=en&theme=dracula) 
 
 
 

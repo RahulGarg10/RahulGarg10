@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<div id="wcb" class="carbonbadge">
-  <div id="wcb_p"><span id="wcb_g">0.05g of CO₂/view</span></div>
-  <span id="wcb_2">Website Carbon</span>
-</div>
 
 <h2 align="left">🧑🏻 About Me:</h2>
 

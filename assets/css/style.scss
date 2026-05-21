@@ -16,14 +16,14 @@
 
 /* Target the thumb (the draggable bar) */
 ::-webkit-scrollbar-thumb {
-  background-color: #b5e853; /* Exactly matches the Hacker theme green */
-  border-radius: 3px;        /* Slightly rounded corners */
+  background-color: #baf52a; /* Exactly matches the Hacker theme green */
+  border-radius: 10px;        /* Slightly rounded corners */
   border: 3px solid #151515; /* Creates a clean gap around the thumb */
 }
 
 /* Darken the color slightly when hovering over the scrollbar */
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #96c441; /* Slightly darker shade for interactive feedback */
+  background-color: #63c0f5; /* Slightly darker shade for interactive feedback */
 }
 
 

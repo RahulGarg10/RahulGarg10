@@ -144,3 +144,84 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
       height: 28px; /* Normalizes badge height scaling */
       border: none;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Container Box */
+#wcb.carbonbadge {
+  display: inline-flex !important;
+  flex-direction: row-reverse !important; /* Flips the link and the metric */
+  align-items: center;
+  font-family: system-ui, -apple-system, sans-serif;
+  border: 1px solid #dcdcdc;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fdfdfd;
+  padding: 0 !important;
+}
+
+/* The Live CO2 Metric Block (Left Side Accent) */
+#wcb_p {
+  background: #00b074 !important; /* Eco green background */
+  color: #ffffff !important;
+  padding: 10px 14px !important;
+  font-weight: 700;
+  margin: 0 !important;
+  display: flex;
+  align-items: center;
+}
+
+/* The Text Label/Link Block (Right Side) */
+#wcb_2 {
+  padding: 8px 12px !important;
+  color: #1a1a1a !important;
+  font-size: 0.9rem !important;
+  font-weight: 600;
+  display: block;
+}
+
+/* Hide the secondary anchor text to keep it minimal */
+#wcb_a {
+  display: none !important;
+}

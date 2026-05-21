@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
- 
-        
+
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+<div id="wcb" class="carbonbadge"></div>  
+
 <h2 align="left">🧑🏻 About Me:</h2>
 
 <img align="right" class="main_img" src="https://avatars.githubusercontent.com/u/134884538?v=4" width="400" height="300" />

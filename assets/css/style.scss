@@ -149,3 +149,72 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Styling the badge like the CodePen layout */
+  .carbonbadge {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    padding: 8px 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    max-width: 220px;
+  }
+
+  .carbonbadge .wcb-badge {
+    font-weight: bold;
+    margin-bottom: 4px;
+    display: block;
+  }
+
+  .carbonbadge a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+
+
+

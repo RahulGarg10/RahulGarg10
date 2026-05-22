@@ -7,7 +7,7 @@ layout: default
 
 <div class="carbonbadge">
   <!-- Replace YOUR-LIVE-URL.COM with your live website -->
-  <span class="wcb-badge" data-website="https://YOUR-LIVE-URL.COM"></span>
+  <span class="wcb-badge"></span>
   <a href="https://websitecarbon.com" target="_blank" rel="noopener">Website Carbon</a>
 </div>
 

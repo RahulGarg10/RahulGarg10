@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!-- Official WebsiteCarbon script -->
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+
+<div class="carbonbadge">
+  <!-- Replace YOUR-LIVE-URL.COM with your live website -->
+  <span class="wcb-badge" data-website="https://YOUR-LIVE-URL.COM"></span>
+  <a href="https://websitecarbon.com" target="_blank" rel="noopener">Website Carbon</a>
+</div>
+
+
 
 <h2 align="left">🧑🏻 About Me:</h2>
 

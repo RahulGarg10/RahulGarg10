@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My First Blog Post!"
-date: 2
+date: 2026-05-23
 ---
 
 Welcome to my new blog using the Hacker theme! 

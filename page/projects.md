@@ -11,6 +11,7 @@ title: Projects
 <a href="#">[Demo]</a>
 </li>      
 
+<br><br>
 
 <li>
 <h2>Typing Speed Test Web App</h2>

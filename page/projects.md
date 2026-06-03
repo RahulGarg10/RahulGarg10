@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-page_id: projects-page
+page_class: projects-page
 ---
 <ul>
 <li>

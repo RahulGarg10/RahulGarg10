@@ -90,6 +90,7 @@ html {
 a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
     color: #63c0f5;
     text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+    text-decoration: none;
 }
 
 /* 1. Masonry Wrapper Setup */
@@ -151,5 +152,10 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
 /*projects page specific css, using page_class = projects-page*/
 .projects-page h2 {
     color: #63c0f5;
+    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+.projects-page a {
+    color: #b5e853;
     text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }

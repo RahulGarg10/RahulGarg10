@@ -5,7 +5,7 @@ title: Projects
 
 
 <div class="projects-page">
-<h1>Projects</h1>
+<h1>./ Projects</h1>
 <ul>
 <li>
 <h2>NCERT Books Scrapper</h2>

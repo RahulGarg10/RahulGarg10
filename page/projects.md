@@ -3,15 +3,6 @@ layout: default
 title: Projects
 ---
 
-<!--
-color: #63c0f5;
-    text-align: center;
-    text-align: center;
-    text-decoration: underline dashed;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 6px;
-
--->
 
 <div class="projects-page">
 <h1>Projects</h1>
@@ -37,5 +28,5 @@ color: #63c0f5;
 
 
 
-</div>
 </ul>
+</div>

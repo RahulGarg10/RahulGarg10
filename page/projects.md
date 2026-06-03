@@ -2,7 +2,20 @@
 layout: default
 title: Projects
 ---
-<ul class="projects-page">
+
+<!--
+color: #63c0f5;
+    text-align: center;
+    text-align: center;
+    text-decoration: underline dashed;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 6px;
+
+-->
+
+<div class="projects-page">
+<h1>Projects</h1>
+<ul>
 <li>
 <h2>NCERT Books Scrapper</h2>
 <time datetime="2018-01-06T00:00:00+00:00">03 June 2026</time>
@@ -18,10 +31,11 @@ title: Projects
 <time datetime="2018-01-06T00:00:00+00:00">12 October 2025</time>
 <p>A sleek, responsive, and minimalist web-based typing speed application built to test and improve keyboard accuracy and speed in Words Per Minute (WPM) / Words Per Second (WPS).</p>
 <a href="https://github.com/RahulGarg10/Speed_Typing_Test_WebApp" target="_blank" rel="noopener noreferrer">[Link]</a>
-<a href="https://rahulgarg10.github.io/Speed_Typing_Test_WebApp/" target="_blank" rel="noopener noreferrer">[Live App]</a>
+<a href="https://rahulgarg10.github.io/Speed_Typing_Test_WebApp/" target="_blank" rel="noopener noreferrer">[Demo]</a>
 </li>  
 
 
 
-      
+
+</div>
 </ul>

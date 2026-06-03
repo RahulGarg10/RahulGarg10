@@ -32,12 +32,12 @@ body{
   background-image: url(../images/backgr02cr.gif);
 }
 
-/*
+
 a{
   color: #b5e853;
   text-decoration: none;
 }
-*/
+
 
 header h2{
   color: #8c8c8c;
@@ -155,7 +155,7 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
     text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
-.projects-page a {
+.projects-page li a {
     color: #b5e853;
     text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Projects
-page_class: projects-page
 ---
-<ul>
+<ul class="projects-page">
 <li>
 <h2>NCERT Books Scrapper</h2>
 <time datetime="2018-01-06T00:00:00+00:00">03 June 2026</time>

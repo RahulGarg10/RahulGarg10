@@ -11,6 +11,9 @@ title: Projects
 <h2>NCERT Books Scrapper</h2>
 <time datetime="2018-01-06T00:00:00+00:00">03 June 2026</time>
 <p>An automated Python utility designed to stream, unpack, and catalog digital editions of Class 11 and Class 12 Mathematics and Physics textbooks directly from official NCERT infrastructure.</p>
+<h4 style="display: inline;">Tools:</h4> HTTPx, Python, Zipfile
+
+  
 <a href="https://github.com/RahulGarg10/NCERT-Books-Scrapper" target="_blank" rel="noopener noreferrer">[Link]</a>
 <a href="#">[Demo]</a>
 </li>      

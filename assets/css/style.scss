@@ -148,12 +148,6 @@ a, .second-main-color{   /* Primary color #b5e853 & resp. text-shadow */
       border: none;
     }
 
-/*projects page specific css, using div_class = projects-page*/
-.projects-page h1 {
-    color: #63c0f5;
-    text-align: center;
-    margin-bottom: 60px;
-   
-}
-
+/* Page specific custom css available in _sass folder */
+@import "projects";
 @import "certificates";

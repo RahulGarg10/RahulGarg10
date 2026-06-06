@@ -119,6 +119,27 @@ filter: drop-shadow(0 0 5px rgba(104, 182, 255, 0.5)); padding-bottom: 6px;">
     font-weight: bold; font-size: 30px;">./ Rahul_Garg</h1></a>
   </div>
 
+
+
+
+
+
+
+
+<script>
+  fetch('https://motivational-spark-api.vercel.app/api/quotes/random')
+      .then(res => res.json())
+      .then(data => document.getElementById('quote-box').innerText = `"${data.quote}" — ${data.author}`);
+</script>
+ <div id="quote-box">Loading...</div>
+
+
+
+
+
+
+  
+
   <div style="flex: 1; min-width: 150px; margin-bottom: 20px; display: flex; flex-direction: column;">
     <strong style="color: #b5e853; margin-bottom: 10px; text-shadow: 0 0 5px rgba(104,182,255,0.5);">Follow Me</strong>
     <div style="display: flex; gap: 3px; font-size: 1.3em;">

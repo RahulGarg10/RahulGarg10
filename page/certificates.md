@@ -7,7 +7,8 @@ title: Certificates
 <link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/certificates.scss' | relative_url }}">
 
-<div class="">
+<div class="crtificates-page">
+<h1>./ Certificates</h1>
     <!-- Your 15 hacker cards go here -->
 </div>
 ## Coming Soon!

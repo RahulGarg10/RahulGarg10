@@ -131,7 +131,8 @@ filter: drop-shadow(0 0 5px rgba(104, 182, 255, 0.5)); padding-bottom: 6px;">
       .then(res => res.json())
       .then(data => document.getElementById('quote-box').innerText = `"${data.quote}" — ${data.author}`);
 </script>
- <div id="quote-box" style="min-width: 350px; font-style: oblique">Loading...</div>
+ <div id="quote-box" style="min-width: 350px; font-style: oblique; height: fit-content;
+    margin-bottom: 20px;">Loading...</div>
 
 
 

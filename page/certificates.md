@@ -51,7 +51,7 @@ title: Certificates
         <div class="card">
             
             <div class="card-content">
-                <h3 class="card-title">Payment Verification</h3>
+                <h3 class="card-title">GenAI Engineering Mastermind</h3>
               <img src="../assets/images/gen ai engineering mastermind.png" alt="GenAi Mastermind" class="card-img">
                 <a href="https://drive.google.com/file/d/1G9uBrxnTjILeMBL0T7yldjNHOECrspmc/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
@@ -61,7 +61,7 @@ title: Certificates
         <div class="card">
             
             <div class="card-content">
-                <h3 class="card-title">Address Verification</h3>
+                <h3 class="card-title">AI Agents Mastery - Arize University</h3>
               <img src="../assets/images/arize ai agents.png" alt="AI Agents Arize" class="card-img">
                 <a href="https://drive.google.com/file/d/1WxMyWGDQWcCup_bT-siVMj5eyWGWBs7C/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>

@@ -32,7 +32,7 @@ title: Certificates
             
             <div class="card-content">
                 <h3 class="card-title">Power Bi Essentials - LinkedIn</h3>
-              <img src="https://media.licdn.com/dms/image/v2/C4D1FAQHfzMj7lnW6JA/feedshare-document-cover-images_1280/feedshare-document-cover-images_1280/0/1655034449501?e=1780915498&v=beta&t=Y9Bo1Iul8XU9pSnERowPdXtO2rfIGWt3NdFj3sO54oc" alt="PowerBi Cert." class="card-img">
+              <img src="../assets/images/powerbi linkedin.png" alt="PowerBi Cert." class="card-img">
                 <a href="https://www.linkedin.com/learning/certificates/91997e22ed1263aafdd8ee6a446675397b034f2beae7d088256cbbb8128eec5c?trk=share_certificate" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
@@ -41,9 +41,9 @@ title: Certificates
         <div class="card">
            
             <div class="card-content">
-                <h3 class="card-title">Identity Verification</h3>
-               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWQGJLPTae36QCRGlo4dxR3iPMGCdkw9rdK2UZBmSMQ&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+                <h3 class="card-title">DL: Remote Sensing Data Classification - ISRO</h3>
+               <img src="../assets/images/certificate ml isro.png" alt="Remote Sensing Classification IISO" class="card-img">
+                <a href="https://drive.google.com/file/d/1a7wsXZZA2uslprG874Rb5ACIO0WvIViN/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
 
@@ -52,8 +52,8 @@ title: Certificates
             
             <div class="card-content">
                 <h3 class="card-title">Payment Verification</h3>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCsW10nAjoXFTDiXZW7Y-fPj9YPUX0aDKyIj-R9lhYw&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+              <img src="../assets/images/gen ai engineering mastermind.png" alt="GenAi Mastermind" class="card-img">
+                <a href="https://drive.google.com/file/d/1G9uBrxnTjILeMBL0T7yldjNHOECrspmc/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
 
@@ -62,8 +62,8 @@ title: Certificates
             
             <div class="card-content">
                 <h3 class="card-title">Address Verification</h3>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrjxaImJLs9bUo9cmdIUA9wMh0D91TsQkpNA50qmFpw&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+              <img src="../assets/images/arize ai agents.png" alt="AI Agents Arize" class="card-img">
+                <a href="https://drive.google.com/file/d/1WxMyWGDQWcCup_bT-siVMj5eyWGWBs7C/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
     </div>

@@ -140,7 +140,7 @@ layout: default
 
 <!-- the webpage is currently reading entirely from default html which I created after making changes to my earlier draft of webpage on google chrome's inspect feature. Then Then I viewed page source and copied the contents of page source on my default html. And made the needed changes in default.html file. this all makes index.md irrelevant at the movent since my webpage is only having homepage. But if I need to create other internal pages than previous operation is not suitable. Then I have to maintain index.md as main file and override jekyll hacker theme on default.html. -->
 
-<p><br /></p>
+<br>
 
 <h2>👨🏻‍💻 Code Stats:</h2>
 <p>

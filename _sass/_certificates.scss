@@ -5,3 +5,70 @@
     margin-bottom: 60px;
    
 }
+
+
+/* 15-Column Grid Layout */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 100px); /* fallback */
+    grid-template-columns: repeat(3, minmax(250px, 1fr));
+    gap: 24px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+/* Individual Card Styling */
+.card {
+    
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+
+
+/* Image style */
+.card-img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Card content padding */
+.card-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+/* Card Title */
+.card-title {  
+   text-align: center;
+}
+
+/* Verify Link styled as a button */
+.card-link {
+    display: inline-block;
+    text-align: center;
+    color: black;
+    text-decoration: none
+}
+
+
+
+/* Responsive design for tablets and mobile */
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-columns: repeat(2, 100px); /* fallback */
+        grid-template-columns: repeat(2, minmax(200px, 1fr));
+    }
+}
+
+@media (max-width: 480px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}

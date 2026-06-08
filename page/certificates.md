@@ -52,7 +52,7 @@ title: Certificates
         <div class="card">
            
             <div class="card-content">
-                <h3 class="card-title">DL: Geodata Processing using Python/ML - ISRO</h3>
+                <h3 class="card-title">Geodata Processing using Python/ML - ISRO</h3>
                <img src="../assets/images/Geodata processing.jpeg" alt="Geodata Processing ISRO" class="card-img">
                 <a href="https://drive.google.com/file/d/1NtkON9yXGlbad-20G_7c54eG3RS6Cm-J/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
@@ -73,7 +73,7 @@ title: Certificates
         <div class="card">
            
             <div class="card-content">
-                <h3 class="card-title">Acquiring Data - Accenture</h3>
+                <h3 class="card-title">AI Acquiring Data - Accenture</h3>
                <img src="../assets/images/accenture Acquiring Data.jpg" alt="Acquiring Data Accenture" class="card-img">
                 <a href="https://drive.google.com/file/d/1zCFOdbooa8RENEGL0ecng-2vmJ4hPVy0/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>

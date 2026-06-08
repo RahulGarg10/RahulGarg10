@@ -92,7 +92,8 @@ layout: default
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=000&amp;style=for-the-badge" alt="Linux">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=for-the-badge" alt="GNU Bash"></p>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=for-the-badge" alt="GNU Bash">
+<img src="https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black&amp;style=for-the-badge" alt="MLflow"></p>
 
 </div>
 </div>

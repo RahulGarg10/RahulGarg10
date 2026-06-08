@@ -8,7 +8,7 @@
 
 
 /* 15-Column Grid Layout */
- .card-container {
+ .certificates-page .card-container {
     display: grid;
     grid-template-columns: repeat(3, 100px); /* fallback */
     grid-template-columns: repeat(3, minmax(250px, 1fr));
@@ -18,7 +18,7 @@
 }
 
 /* Individual Card Styling */
- .card {
+ .certificates-page .card {
     
   /*  border-radius: 8px; */    
     overflow: hidden;
@@ -27,7 +27,7 @@
 
 
 /* Image style */
- .card-img {
+ .certificates-page .card-img {
     width: 100%;
     height: 200px;
     object-fit: cover;
@@ -35,7 +35,7 @@
 }
 
 /* Card content padding */
- .card-content {
+.certificates-page .card-content {
   /*  padding: 20px;  */
     display: flex;
     flex-direction: column;
@@ -45,12 +45,12 @@
 }
 
 /* Card Title */
- .card-title {  
+ .certificates-page .card-title {  
    text-align: center;
 }
 
 /* Verify Link styled as a button */
- .card-link {
+ .certificates-page .card-link {
     display: inline-block;
     text-align: center;
     margin-top: 10px;
@@ -61,14 +61,14 @@
 
 /* Responsive design for tablets and mobile */
 @media (max-width: 768px) {
-    .card-container {
+   .certificates-page .card-container {
         grid-template-columns: repeat(2, 100px); /* fallback */
         grid-template-columns: repeat(2, minmax(200px, 1fr));
     }
 }
 
 @media (max-width: 480px) {
-    .card-container {
+   .certificates-page .card-container {
         grid-template-columns: 1fr;
     }
 }

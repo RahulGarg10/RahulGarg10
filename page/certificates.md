@@ -11,9 +11,9 @@ title: Certificates
         <div class="card">
            
             <div class="card-content">
-                <h3 class="card-title">Identity Verification</h3>
-               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEWQGJLPTae36QCRGlo4dxR3iPMGCdkw9rdK2UZBmSMQ&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+                <h3 class="card-title">ACP in Data Science - IIIT, Bengaluru</h3>
+               <img src="../assets/images/iiitb ds certificate.png" alt="Data Science, IIITB" class="card-img">
+                <a href="https://drive.google.com/file/d/1bw7vVfPAUYXJ6Fryoh64QWO-k80K3acv/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
 
@@ -21,9 +21,9 @@ title: Certificates
         <div class="card">
             
             <div class="card-content">
-                <h3 class="card-title">Payment Verification</h3>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCsW10nAjoXFTDiXZW7Y-fPj9YPUX0aDKyIj-R9lhYw&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+                <h3 class="card-title">Python Programming Essentials - Cisco</h3>
+              <img src="../assets/images/Python programming cisco.png" alt="Python Programming" class="card-img">
+                <a href="https://drive.google.com/file/d/1iFjqVVi7ynVICPdqnABFetgB5QhtP8oo/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
 
@@ -31,13 +31,13 @@ title: Certificates
         <div class="card">
             
             <div class="card-content">
-                <h3 class="card-title">Address Verification</h3>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrjxaImJLs9bUo9cmdIUA9wMh0D91TsQkpNA50qmFpw&s=10" alt="Card Image Placeholder" class="card-img">
-                <a href="#" class="card-link">Verify</a>
+                <h3 class="card-title">Power Bi Essentials - LinkedIn</h3>
+              <img src="https://media.licdn.com/dms/image/v2/C4D1FAQHfzMj7lnW6JA/feedshare-document-cover-images_1280/feedshare-document-cover-images_1280/0/1655034449501?e=1780915498&v=beta&t=Y9Bo1Iul8XU9pSnERowPdXtO2rfIGWt3NdFj3sO54oc" alt="PowerBi Cert." class="card-img">
+                <a href="https://www.linkedin.com/learning/certificates/91997e22ed1263aafdd8ee6a446675397b034f2beae7d088256cbbb8128eec5c?trk=share_certificate" target="_blank" rel="noopener noreferrer" class="card-link">Verify</a>
             </div>
         </div>
       
-       <!-- Card 1 -->
+       <!-- Card 4 -->
         <div class="card">
            
             <div class="card-content">
@@ -47,7 +47,7 @@ title: Certificates
             </div>
         </div>
 
-        <!-- Card 2 -->
+        <!-- Card 5 -->
         <div class="card">
             
             <div class="card-content">
@@ -57,7 +57,7 @@ title: Certificates
             </div>
         </div>
 
-        <!-- Card 3 -->
+        <!-- Card 6 -->
         <div class="card">
             
             <div class="card-content">

@@ -8,7 +8,7 @@
 
 
 /* 15-Column Grid Layout */
-.card-container {
+.certificates-page .card-container {
     display: grid;
     grid-template-columns: repeat(3, 100px); /* fallback */
     grid-template-columns: repeat(3, minmax(250px, 1fr));

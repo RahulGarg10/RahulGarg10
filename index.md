@@ -51,7 +51,7 @@ layout: default
   <li>
     <p><strong style="
     color: #63c0f5;
-">Fun fact:</strong> I love to solve computational math problems of Project Euler - <a href="https://github.com/RahulGarg10/Project_Euler_Math_Problems">Repo Link</a></p>
+">Fun fact:</strong> I love to solve computational math problems of Project Euler - <a href="https://github.com/RahulGarg10/Project_Euler_Math_Problems" target="_blank" rel="noopener">Repo Link</a></p>
   </li>
 </ul>
 

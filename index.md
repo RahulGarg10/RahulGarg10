@@ -8,13 +8,21 @@ layout: default
 <img align="right" class="main_img" src="https://avatars.githubusercontent.com/u/134884538?v=4" width="400" height="300" />
 
 - **Deploying ML Models:** Building an end-to-end pipeline to deploy Machine Learning models on **AWS**.
+  
 - **Exploring LLMs:** Learning how to design Large Language Models from scratch.
+  
 - **Mastering the Web:** Studying **Full Stack Web Development** to build complete web apps
+  
 - **Ask Me About:** Data Science, Machine Learning, and Artificial Intelligence.
+  
 - **My Code:** Check out my latest work on my Projects page.
+  
 - **My Thoughts:** I write regular tech articles on my Substack.
+  
 - View my career and academic history on my Resume.
+  
 - Message me and network on LinkedIn.
+  
 - **Fun fact:** I love to solve computational math problems of Project Euler - [Repo](https://github.com/RahulGarg10/Project_Euler_Math_Problems)
 
 

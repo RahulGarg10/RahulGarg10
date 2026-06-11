@@ -7,32 +7,16 @@ layout: default
 
 <img align="right" class="main_img" src="https://avatars.githubusercontent.com/u/134884538?v=4" width="400" height="300" />
 
-<ul>
-  <li>
-    <p>I’m currently designing an end to end pipeline to deploy ML model on AWS.</p>
-  </li>
-  <li>
-    <p>I’m currently exploring to design an llm model from scratch.</p>
-  </li>
-  <li>
-    <p>I’m currently learning: Full Stack Web Development.</p>
-  </li>
-  <li>
-    <p>All of my projects are available at <a href="https://github.com/RahulGarg10?tab=repositories" target="_blank" rel="noopener">Projects</a></p>
-  </li>
-  <li>
-    <p>I regularly write articles on <a href="https://rahulgarg10.substack.com/" target="_blank" rel="noopener">Substack</a></p>
-  </li>
-  <li>
-    <p>Ask me about: <strong>Data Science, ML &amp; AI.</strong></p>
-  </li>
-  <li>
-    <p>Reach me at <a href="https://www.linkedin.com/in/rahul-garg10/" target="_blank" rel="noopener">Linkedin</a></p>
-  </li>
-  <li>
-    <p>Know about my experiences- <a href="https://drive.google.com/file/d/1k-tXqX7fSyAICH2EcQZxMM-LAB_w5t1S/view?usp=sharing" target="_blank" rel="noopener">Resume</a></p>
-  </li>
-</ul>
+- **Deploying ML Models:** Building an end-to-end pipeline to deploy Machine Learning models on **AWS**.
+- **Exploring LLMs:** Learning how to design Large Language Models from scratch.
+- **Mastering the Web:** Studying **Full Stack Web Development** to build complete web apps
+- **Ask Me About:** Data Science, Machine Learning, and Artificial Intelligence.
+- **My Code:** Check out my latest work on my Projects page.
+- **My Thoughts:** I write regular tech articles on my Substack.
+- View my career and academic history on my Resume.
+- Message me and network on LinkedIn.
+- **Fun fact:** I love to solve computational math problems of Project Euler - [Repo](https://github.com/RahulGarg10/Project_Euler_Math_Problems)
+
 
 <p><br /></p>
 

@@ -7,23 +7,53 @@ layout: default
 
 <img align="right" class="main_img" src="https://avatars.githubusercontent.com/u/134884538?v=4" width="400" height="300" />
 
-- **Deploying ML Models:** Building an end-to-end pipeline to deploy Machine Learning models on **AWS**.
-  
-- **Exploring LLMs:** Learning how to design Large Language Models from scratch.
-  
-- **Mastering the Web:** Studying **Full Stack Web Development** to build complete web apps
-  
-- **Ask Me About:** Data Science, Machine Learning, and Artificial Intelligence.
-  
-- **My Code:** Check out my latest work on my Projects page.
-  
-- **My Thoughts:** I write regular tech articles on my Substack.
-  
-- View my career and academic history on my Resume.
-  
-- Message me and network on LinkedIn.
-  
-- **Fun fact:** I love to solve computational math problems of Project Euler - [Repo](https://github.com/RahulGarg10/Project_Euler_Math_Problems)
+<ul>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Deploying ML Models:</strong> Building an end-to-end pipeline to deploy Machine Learning models on AWS.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Exploring LLMs:</strong> Learning how to design Large Language Models from scratch.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Mastering the Web:</strong> Studying Full Stack Web Development to build complete web apps</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Ask Me About:</strong> Data Science, Machine Learning, and Artificial Intelligence.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">My Code:</strong> Check out my latest work on my Projects page.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">My Thoughts:</strong> I write regular tech articles on my Substack.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Experience:</strong> View my career and academic history on my Resume.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Connect:</strong> Message me and network on LinkedIn.</p>
+  </li>
+  <li>
+    <p><strong style="
+    color: #63c0f5;
+">Fun fact:</strong> I love to solve computational math problems of Project Euler - <a href="https://github.com/RahulGarg10/Project_Euler_Math_Problems">Repo Link</a></p>
+  </li>
+</ul>
 
 
 <p><br /></p>
